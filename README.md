@@ -1,3 +1,5 @@
+
+
 USTH ICT 2024 Android Application Development
 =====================================================
 
@@ -10,7 +12,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Nguyen Duy Cuong
+* ID: BA12-034
 * Group ID: *Your Group ID here*
 * Project Name: *Your Project Name here*
