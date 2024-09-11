@@ -14,5 +14,5 @@ Student Info
 
 * Name: Nguyen Duy Cuong
 * ID: BA12-034
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Group ID: *20*
+* Project Name: *Flickr browser image*
